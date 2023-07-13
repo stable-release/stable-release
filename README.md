@@ -1,7 +1,8 @@
-<h2 width="50">👋 Howdy, I'm Kevin!</h2>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stable-release&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stable-release&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stable-release&theme=github_dark)
 
-[![GitHub followers](https://img.shields.io/github/followers/stable-release?label=Follow%20Me&style=for-the-badge&logo=github)](https://github.com/stable-release)
-[![GitHub User's stars](https://img.shields.io/github/stars/stable-release?style=for-the-badge&color=gold&cacheSeconds=3601&logo=githubsponsors)]([https://github.com/stable-release](https://github.com/stable-release?tab=repositories))
+<h2 width="50">👋 Howdy, I'm Kevin!</h2>
 
 <h4><b><em>✨ Software</em></b> <b><em>Engineer</em></b></h4>
 <h4><b><em>⚡ Full-Stack</em></b> <b><em>Developer</em></b></h4>
@@ -25,19 +26,15 @@ contract Kevin {
 
     /// @notice Retrieve my development setup
     /// @return An array of environment IDEs
-    function WhatEnvironmentDoIUse() public returns (string[] memory) {
+    function WhatEnvironmentDoIUse() public returns (string[] memory Env) {
         string[] memory Env   = [];
-        string memory IDE     = "Visual Studio Code";
-        string memory AltIDE  = "Visual Studio 2022";
-
-        Env.push(IDE);
-        Env.push(AltIDE);
-
-        return Env;
+        Env.push("Visual Studio Code");
+        Env.push("Visual Studio 2022");
     }
 }
 ```
 
+### 😄 Love to live to learn
 
 
 
