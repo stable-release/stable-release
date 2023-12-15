@@ -7,7 +7,7 @@
 <h4><b><em>✨ Software</em></b> <b><em>Engineer</em></b></h4>
 <h4><b><em>⚡ Full-Stack</em></b> <b><em>Developer</em></b></h4>
 
-### *A bit of who is* Stable Release *?...*
+### *A bit of who am I?...*
 
 ```solidity
 // SPDX-License-Identifier: MIT
