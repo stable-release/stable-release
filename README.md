@@ -5,7 +5,7 @@
 <h2 width="50">👋 Howdy, I'm Kevin!</h2>
 
 <h4><b><em>✨ Software</em></b> <b><em>Engineer</em></b></h4>
-<h4><b><em>⚡ Full-Stack</em></b> <b><em>Developer</em></b></h4>
+<h4><b><em>⚡ Full-Stack</em></b> <b><em>Developer</em></b></h4> --> Rustacean
 
 ### *A bit of who am I?...*
 
@@ -18,7 +18,7 @@ pragma solidity ^0.8.20;
 /// @notice This contract describes a bit about me
 contract Kevin {
 
-    string storage Code       = [ "Javascript", "Solidity", "HTML5", "CSS3",
+    string storage Code       = [ "Rust, Javascript", "Solidity", "HTML5", "CSS3",
                               "PostgreSQL", "C#", "Typescript", "Python" ];
 
     string storage Tools      = [ "React", "Node", "Mocha", "Chai", "Foundry",
