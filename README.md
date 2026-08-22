@@ -4,10 +4,8 @@
 
 <h2 width="50">👋 Howdy, I'm Kevin!</h2>
 
-<h4><b><em>✨ Software</em></b> <b><em>Engineer</em></b></h4>
-<h4><b><em>⚡ Full-Stack</em></b> <b><em>Developer</em></b></h4> --> Rustacean
-
-### 😄 Love to live to learn
+<h4><b><em>✨ Generalist</em></b> <b><em>Engineer</em></b></h4>
+<h4><b><em>⚡ Busy porting your python</em></b> <b><em>Into Rust</em></b></h4>
 
 
 
